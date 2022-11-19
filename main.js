@@ -1,7 +1,7 @@
 "use strict";
 
 // TODO list
-let list = ["make a bad", "make a bad", "sasat", "kakat"];
+let list = ["make a bed", "make a bad", "sasat", "kakat"];
 
 class Main{
   // Remove task from TODO list
